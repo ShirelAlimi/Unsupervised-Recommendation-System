@@ -1,2 +1,6 @@
 # Unsupervised-Recommendation-System
-A project designed to face the challenge of predicting the factors influencing the success of a lottery for housing programs.
+The project is designed to tackle the challenge of extracting valuable insights from a large volume of unstructured textual data in the form of restaurant reviews. In today's digital age, online reviews play a crucial role in shaping consumer opinions and influencing business decisions, particularly within the restaurant industry. However, analyzing and making sense of these reviews can be daunting due to their sheer volume and unstructured nature.
+
+The project aims to address this challenge by leveraging advanced techniques in natural language processing (NLP) and unsupervised machine learning to uncover hidden patterns, sentiments, and preferences embedded within restaurant reviews. By systematically analyzing and clustering these reviews, the project seeks to provide restaurant owners and managers with actionable intelligence to improve customer satisfaction, enhance operational efficiency, and drive business success.
+
+In essence, the project endeavors to bridge the gap between raw textual data and actionable insights, empowering stakeholders within the restaurant industry to make informed decisions and stay competitive in a rapidly evolving market landscape.rams.
